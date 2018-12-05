@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1474592983 source:c:\users\hp\my\main.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+
+1474592983 source:f:\c\my\main.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+
+1474592983 source:f:\c\cdemo\my\main.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+	<math.h>
+	<windows.h>
+	<tchar.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477412294 source:f:\c\函数的封装与模块设计mode\main.c
+	<stdio.h>
+	<assert.h>
+	<time.h>
+	<stdlib.h>
+

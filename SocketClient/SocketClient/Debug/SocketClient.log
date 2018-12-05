@@ -1,0 +1,3 @@
+﻿  main.c
+f:\c\cdemo\socketclient\socketclient\main.c(96): warning C4013: “gets”未定义；假设外部返回 int
+  SocketClient.vcxproj -> F:\C\CDemo\SocketClient\Debug\SocketClient.exe

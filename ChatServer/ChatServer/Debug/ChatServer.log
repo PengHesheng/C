@@ -1,0 +1,23 @@
+﻿  main.c
+f:\c\cdemo\chatserver\chatserver\main.c(125): warning C4101: “TcpClientAddr”: 未引用的局部变量
+f:\c\cdemo\chatserver\chatserver\main.c(169): warning C4047: “函数”:“char **”与“char *”的间接级别不同
+f:\c\cdemo\chatserver\chatserver\main.c(169): warning C4024: “strtok_s”: 形参和实参 3 的类型不同
+f:\c\cdemo\chatserver\chatserver\main.c(170): warning C4047: “函数”:“char **”与“char *”的间接级别不同
+f:\c\cdemo\chatserver\chatserver\main.c(170): warning C4024: “strtok_s”: 形参和实参 3 的类型不同
+f:\c\cdemo\chatserver\chatserver\main.c(186): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatserver\chatserver\main.c(200): warning C4047: “函数”:“char **”与“char *”的间接级别不同
+f:\c\cdemo\chatserver\chatserver\main.c(200): warning C4024: “strtok_s”: 形参和实参 3 的类型不同
+f:\c\cdemo\chatserver\chatserver\main.c(201): warning C4047: “函数”:“char **”与“char *”的间接级别不同
+f:\c\cdemo\chatserver\chatserver\main.c(201): warning C4024: “strtok_s”: 形参和实参 3 的类型不同
+f:\c\cdemo\chatserver\chatserver\main.c(217): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatserver\chatserver\main.c(239): warning C4047: “函数”:“FILE **”与“FILE *”的间接级别不同
+f:\c\cdemo\chatserver\chatserver\main.c(239): warning C4024: “fopen_s”: 形参和实参 1 的类型不同
+f:\c\cdemo\chatserver\chatserver\main.c(253): warning C4020: “puts”: 实参太多
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_errno@4，该符号在函数 _DoMsgLogin 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，该符号在函数 _DoMsgLogin 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 _InitMySql 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 _InitMySql 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_real_query@12，该符号在函数 _DoMsgLogin 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 _main 中被引用
+D:\Program Files (x86)\work\mysql-8.0.13-winx64\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\C\CDemo\ChatServer\Debug\ChatServer.exe : fatal error LNK1120: 6 个无法解析的外部命令

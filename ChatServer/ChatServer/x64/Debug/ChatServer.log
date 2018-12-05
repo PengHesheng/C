@@ -1,0 +1,8 @@
+﻿  main.c
+f:\c\cdemo\chatserver\chatserver\main.c(125): warning C4101: “TcpClientAddr”: 未引用的局部变量
+f:\c\cdemo\chatserver\chatserver\main.c(204): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatserver\chatserver\main.c(213): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\c\cdemo\chatserver\chatserver\main.c(247): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatserver\chatserver\main.c(256): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\c\cdemo\chatserver\chatserver\main.c(289): warning C4020: “puts”: 实参太多
+  ChatServer.vcxproj -> F:\C\CDemo\ChatServer\x64\Debug\ChatServer.exe

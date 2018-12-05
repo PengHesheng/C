@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510664602 source:f:\c\cdemo\socket\service\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Winsock2.h>
+

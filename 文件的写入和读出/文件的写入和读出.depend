@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1483342814 source:f:\c\文件的写入和读出\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdlib.h>
+	<errno.h>
+

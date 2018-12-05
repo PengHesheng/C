@@ -1,0 +1,7 @@
+﻿  main.c
+f:\c\cdemo\chatclient\chatclient\main.c(91): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatclient\chatclient\main.c(134): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatclient\chatclient\main.c(204): warning C4013: “gets”未定义；假设外部返回 int
+f:\c\cdemo\chatclient\chatclient\main.c(206): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\c\cdemo\chatclient\chatclient\main.c(247): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  ChatClient.vcxproj -> F:\C\CDemo\ChatClient\x64\Debug\ChatClient.exe

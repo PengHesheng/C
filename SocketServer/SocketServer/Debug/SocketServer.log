@@ -1,0 +1,4 @@
+﻿  main.c
+f:\c\cdemo\socketserver\socketserver\main.c(87): warning C4101: “TcpClientAddr”: 未引用的局部变量
+f:\c\cdemo\socketserver\socketserver\main.c(154): warning C4013: “gets”未定义；假设外部返回 int
+  SocketServer.vcxproj -> F:\C\CDemo\SocketServer\Debug\SocketServer.exe

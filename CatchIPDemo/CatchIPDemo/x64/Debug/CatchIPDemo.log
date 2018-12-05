@@ -1,0 +1,12 @@
+﻿  IPNode.cpp
+  IPNode.h
+  正在生成代码...
+  main.c
+f:\c\cdemo\catchipdemo\catchipdemo\main.c(47): warning C4013: “_WSALOW”未定义；假设外部返回 int
+f:\c\cdemo\catchipdemo\catchipdemo\main.c(47): warning C4022: “WSAIoctl”: 指针与实参 5 不匹配
+f:\c\cdemo\catchipdemo\catchipdemo\main.c(64): warning C4778: “printf”: 格式字符串“%”未终止
+f:\c\cdemo\catchipdemo\catchipdemo\main.c(64): warning C4474: printf: 格式字符串中传递的参数太多
+  f:\c\cdemo\catchipdemo\catchipdemo\main.c(64): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+x64\Debug\IPNode.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+main.obj : error LNK2019: 无法解析的外部符号 _WSALOW，该符号在函数 main 中被引用
+F:\C\CDemo\CatchIPDemo\x64\Debug\CatchIPDemo.exe : fatal error LNK1120: 1 个无法解析的外部命令
